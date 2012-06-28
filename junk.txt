@@ -1,0 +1,4 @@
+total 0
+drwxr-xr-x    3 Jordan   Administ        0 Jun 28 10:36 .
+drwxr-xr-x    1 Jordan   Administ        0 Jun 28 10:35 ..
+-rw-r--r--    1 Jordan   Administ        0 Jun 28 10:36 junk.txt
