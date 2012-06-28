@@ -1,4 +1,6 @@
-total 0
-drwxr-xr-x    3 Jordan   Administ        0 Jun 28 10:36 .
-drwxr-xr-x    1 Jordan   Administ        0 Jun 28 10:35 ..
--rw-r--r--    1 Jordan   Administ        0 Jun 28 10:36 junk.txt
+total 2
+drwxr-xr-x    1 Jordan   Administ        0 Jun 28  2012 .
+drwxr-xr-x    1 Jordan   Administ        0 Jun 27 21:01 ..
+drwxr-xr-x    4 Jordan   Administ     4096 Jun 27 22:10 coursework
+drwxr-xr-x    4 Jordan   Administ        0 Jun 28 10:45 github-test
+-rw-r--r--    1 Jordan   Administ        0 Jun 28  2012 junk.txt
